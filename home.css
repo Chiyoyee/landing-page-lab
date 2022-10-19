@@ -1,0 +1,7 @@
+@media screen and (max-width: 481px){
+    h1 {
+        display: none;   
+    }
+}
+
+/*display: none can be used to hide displays on mobile*/
